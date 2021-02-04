@@ -1,1 +1,1 @@
-# hue-cuisine
+# Hue cuisine
